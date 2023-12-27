@@ -124,9 +124,7 @@
   block-size: 100%;
 }
 
-.image-watermark::before {
-  content: "</HTML>";
-  display: block;
+.image-watermark {
   position: absolute;
   inset-block-start: 27px;
   inset-inline-end: 27px;
