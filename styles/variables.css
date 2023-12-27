@@ -1,6 +1,6 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 :root {
-  --content-inline-size: min(100%, 696px);
+  --content-inline-size: min(100%, 700px);
   --header-title-font-size: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
 
   --font-family-main: "Inter", sans-serif;
