@@ -220,7 +220,7 @@
 
 .floppy {
   display: block;
-  fill: var(--accent-color);
+  color: var(--accent-color);
   inline-size: 21px;
   block-size: 21px;
 }
@@ -230,7 +230,7 @@
     inline-size: 100vw;
   }
 
-  .image-watermark::before {
+  .image-watermark {
     inset-block-start: 25px;
     inset-inline-end: 13px;
   }
@@ -242,9 +242,5 @@
   .floppy {
     inline-size: 28px;
     block-size: 28px;
-  }
-
-  .button__text {
-    text-wrap: wrap;
   }
 }

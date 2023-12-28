@@ -4,7 +4,8 @@
         width="39"
         height="39"
         viewBox="0 0 39 39"
-        fill="currentColor"
+        fill="none" 
+        stroke="currentColor"
       >
         <rect width="3.00001" height="3" fill="black" />
         <rect y="3" width="3.00001" height="3" fill="black" />
