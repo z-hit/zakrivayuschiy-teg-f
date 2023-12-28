@@ -10,6 +10,7 @@
   --font-weight-main-bold: 700;
   --background-color: #fff;
   --accent-color: #000;
+  --button-text-color: #fff;
   --background-image: repeating-linear-gradient(
       to right,
       #d3d3d3 0px 2px,
@@ -24,6 +25,7 @@
   --font-weight-main-bold: 785;
   --background-color: #000;
   --accent-color: #00cc14;
+  --button-text-color: #00cc14;
   --background-image: repeating-linear-gradient(
       to right,
       #000 0px 2px,
@@ -39,6 +41,7 @@
     --font-weight-main-bold: 700;
     --background-color: #fff;
     --accent-color: #000;
+    --button-text-color: #fff;
     --background-image: repeating-linear-gradient(
         to right,
         #d3d3d3 0px 2px,
@@ -55,6 +58,7 @@
     --font-weight-main-bold: 785;
     --background-color: #000;
     --accent-color: #00cc14;
+    --button-text-color: #00cc14;
     --background-image: repeating-linear-gradient(
         to right,
         #000 0px 2px,

@@ -4,91 +4,90 @@
         width="39"
         height="39"
         viewBox="0 0 39 39"
-        fill="none" 
-        stroke="currentColor"
+        fill="currentColor" 
       >
-        <rect width="3.00001" height="3" fill="black" />
-        <rect y="3" width="3.00001" height="3" fill="black" />
-        <rect y="6" width="3.00001" height="3" fill="black" />
-        <rect y="9" width="3.00001" height="3" fill="black" />
-        <rect y="12" width="3.00001" height="3" fill="black" />
-        <rect y="15" width="3.00001" height="3" fill="black" />
-        <rect y="18" width="3.00001" height="3" fill="black" />
-        <rect y="21" width="3.00001" height="3" fill="black" />
-        <rect y="24" width="3.00001" height="3" fill="black" />
-        <rect y="27" width="3.00001" height="3" fill="black" />
-        <rect y="30" width="3.00001" height="3" fill="black" />
-        <rect y="33" width="3.00001" height="3" fill="black" />
-        <rect y="36" width="3.00001" height="3" fill="black" />
+        <rect width="3.00001" height="3" fill="currentColor" />
+        <rect y="3" width="3.00001" height="3" fill="currentColor" />
+        <rect y="6" width="3.00001" height="3" fill="currentColor" />
+        <rect y="9" width="3.00001" height="3" fill="currentColor" />
+        <rect y="12" width="3.00001" height="3" fill="currentColor" />
+        <rect y="15" width="3.00001" height="3" fill="currentColor" />
+        <rect y="18" width="3.00001" height="3" fill="currentColor" />
+        <rect y="21" width="3.00001" height="3" fill="currentColor" />
+        <rect y="24" width="3.00001" height="3" fill="currentColor" />
+        <rect y="27" width="3.00001" height="3" fill="currentColor" />
+        <rect y="30" width="3.00001" height="3" fill="currentColor" />
+        <rect y="33" width="3.00001" height="3" fill="currentColor" />
+        <rect y="36" width="3.00001" height="3" fill="currentColor" />
         <rect
           x="33"
           width="3"
           height="3.00001"
           transform="rotate(90 33 0)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="30.0032"
           width="3"
           height="3.00001"
           transform="rotate(90 30.0032 0)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="26.9998"
           width="3"
           height="3.00001"
           transform="rotate(90 26.9998 0)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="23.9998"
           width="3"
           height="3.00001"
           transform="rotate(90 23.9998 0)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="20.999"
           width="3"
           height="3.00001"
           transform="rotate(90 20.999 0)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="17.9998"
           width="3"
           height="3.00001"
           transform="rotate(90 17.9998 0)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="14.999"
           width="3"
           height="3.00001"
           transform="rotate(90 14.999 0)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="12"
           width="3"
           height="3.00001"
           transform="rotate(90 12 0)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="8.99609"
           width="3"
           height="3.00001"
           transform="rotate(90 8.99609 0)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="6"
           width="3"
           height="3.00001"
           transform="rotate(90 6 0)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="36.0007"
@@ -96,7 +95,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 36.0007 3)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="8.99609"
@@ -104,7 +103,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 8.99609 6)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="8.99609"
@@ -112,7 +111,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 8.99609 3)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="8.99609"
@@ -120,7 +119,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 8.99609 9)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="30.0032"
@@ -128,7 +127,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 30.0032 6)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="30.0032"
@@ -136,7 +135,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 30.0032 3)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="30.0032"
@@ -144,7 +143,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 30.0032 9)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="23.9998"
@@ -152,7 +151,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 23.9998 6)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="23.9998"
@@ -160,7 +159,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 23.9998 3)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="23.9998"
@@ -168,7 +167,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 23.9998 9)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="30.0032"
@@ -176,7 +175,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 30.0032 12)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="26.9998"
@@ -184,7 +183,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 26.9998 12)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="23.9998"
@@ -192,7 +191,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 23.9998 12)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="20.999"
@@ -200,7 +199,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 20.999 12)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="17.9998"
@@ -208,7 +207,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 17.9998 12)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="14.999"
@@ -216,7 +215,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 14.999 12)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="12"
@@ -224,7 +223,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 12 12)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="8.99609"
@@ -232,7 +231,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 8.99609 12)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="33"
@@ -240,7 +239,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 33 21)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="30.0032"
@@ -248,7 +247,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 30.0032 21)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="26.9998"
@@ -256,7 +255,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 26.9998 21)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="23.9998"
@@ -264,7 +263,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 23.9998 21)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="20.999"
@@ -272,7 +271,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 20.999 21)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="17.9998"
@@ -280,7 +279,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 17.9998 21)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="14.999"
@@ -288,7 +287,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 14.999 21)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="12"
@@ -296,7 +295,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 12 21)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="8.99609"
@@ -304,7 +303,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 8.99609 21)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="33"
@@ -312,7 +311,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 33 24)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="8.99609"
@@ -320,7 +319,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 8.99609 24)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="33"
@@ -328,7 +327,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 33 27)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="8.99609"
@@ -336,7 +335,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 8.99609 27)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="33"
@@ -344,7 +343,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 33 30)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="8.99609"
@@ -352,7 +351,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 8.99609 30)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="8.99609"
@@ -360,7 +359,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 8.99609 33)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="33"
@@ -368,7 +367,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 33 33)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="36.0007"
@@ -376,7 +375,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 36.0007 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="33"
@@ -384,7 +383,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 33 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="30.0032"
@@ -392,7 +391,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 30.0032 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="26.9998"
@@ -400,7 +399,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 26.9998 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="23.9998"
@@ -408,7 +407,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 23.9998 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="20.999"
@@ -416,7 +415,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 20.999 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="17.9998"
@@ -424,7 +423,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 17.9998 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="14.999"
@@ -432,7 +431,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 14.999 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="12"
@@ -440,7 +439,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 12 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="8.99609"
@@ -448,7 +447,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 8.99609 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="6"
@@ -456,7 +455,7 @@
           width="3"
           height="3.00001"
           transform="rotate(90 6 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="39"
@@ -464,7 +463,7 @@
           width="3.00001"
           height="3"
           transform="rotate(-180 39 39)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="39"
@@ -472,7 +471,7 @@
           width="3.00001"
           height="3"
           transform="rotate(-180 39 36)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="39"
@@ -480,7 +479,7 @@
           width="3.00001"
           height="3"
           transform="rotate(-180 39 33)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="39"
@@ -488,7 +487,7 @@
           width="3.00001"
           height="3"
           transform="rotate(-180 39 30)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="39"
@@ -496,7 +495,7 @@
           width="3.00001"
           height="3"
           transform="rotate(-180 39 27)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="39"
@@ -504,7 +503,7 @@
           width="3.00001"
           height="3"
           transform="rotate(-180 39 24)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="39"
@@ -512,7 +511,7 @@
           width="3.00001"
           height="3"
           transform="rotate(-180 39 21)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="39"
@@ -520,7 +519,7 @@
           width="3.00001"
           height="3"
           transform="rotate(-180 39 18)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="39"
@@ -528,7 +527,7 @@
           width="3.00001"
           height="3"
           transform="rotate(-180 39 15)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="39"
@@ -536,7 +535,7 @@
           width="3.00001"
           height="3"
           transform="rotate(-180 39 12)"
-          fill="black"
+          fill="currentColor"
         />
         <rect
           x="39"
@@ -544,7 +543,7 @@
           width="3.00001"
           height="3"
           transform="rotate(-180 39 9)"
-          fill="black"
+          fill="currentColor"
         />
       </symbol>
     </svg>
