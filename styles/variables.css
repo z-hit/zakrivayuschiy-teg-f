@@ -2,9 +2,9 @@
 :root {
   --content-inline-size: 700px;
   --header-title-font-size: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
-
   --font-family-main: "Inter", sans-serif;
   --font-family-accent: "PressStart2P", sans-serif;
+
   --font-weight-main-normal: 400;
   --font-weight-main-bold: 700;
   --background-color: #fff;
@@ -17,4 +17,7 @@
     ),
     repeating-linear-gradient(to bottom, #d3d3d3 0px 2px, transparent 2px 4px),
     linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a 100%);
+
+  --heart-icon-contour-color: #000;
+  --heart-icon-body-color: #f00;
 }

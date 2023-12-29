@@ -173,7 +173,7 @@
   font-style: normal;
   font-variation-settings: "wght" var(--font-weight-main-bold);
   line-height: normal;
-  padding: 4px 10px;
+  padding: 5px 10px;
   border-block-end: none;
 }
 
@@ -247,13 +247,10 @@
 }
 
 .card__icon-button {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: none;
+  border: 2px solid transparent;
   background-color: transparent;
   padding: 0;
-  inline-size: 38px;
+  inline-size: 39px;
   block-size: 38px;
 }
 
@@ -370,12 +367,36 @@
 
 .card__icon-button:focus-visible {
   outline: none;
-  border: 2px solid var(--accent-color);
+  animation: icon-focus-visible 0.3s ease forwards;
+}
+
+@keyframes icon-focus-visible {
+  to {
+    border-color: var(--accent-color);
+  }
 }
 
 .card__like-button:focus-visible,
 .footer__button:focus-visible {
   outline: none;
+}
+
+/* HEART ANIMATION */
+
+#sparks {
+  opacity: 0;
+}
+
+.like-icon:hover {
+  .heart#core {
+    fill: var(--heart-icon-contour-color);
+    transition: color 0.3s linear 0;
+  }
+
+  .heart#main-body {
+    fill: var(--heart-icon-contour-color);
+    transition: color 0.3s linear 0.05s;
+  }
 }
 
 /* MEDIA */
