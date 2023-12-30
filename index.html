@@ -127,13 +127,35 @@
       </article>
     </main>
     <footer class="footer content-inline-size">
-      <button class="footer__button container-style">
+      <button
+        class="footer__button container-style"
+        type="button"
+        onclick="window['pop-up'].show()"
+        aria-controls="pop-up"
+      >
         <svg class="floppy" viewBox="0 0 39 39" fill="currentColor">
           <use href="./svg/floppy.svg#floppy"></use>
         </svg>
         <span class="button__text">Сохранить на память</span>
       </button>
     </footer>
+    <dialog id="pop-up">
+      <div class="pop-up-container container-style">
+        <div class="pop-op__text-box">
+          <svg class="pop-up__floppy" viewBox="0 0 39 39" fill="currentColor">
+            <use href="./svg/floppy.svg#floppy"></use>
+          </svg>
+          <p class="pop-up__text">Вставьте дискету, чтобы продолжить</p>
+        </div>
+        <button
+          class="pop-up__button container-style"
+          type="button"
+          onclick="window['pop-up'].close()"
+        >
+          <span class="button__text">ok</span>
+        </button>
+      </div>
+    </dialog>
     <script src="./scripts/like.js"></script>
   </body>
 </html>
