@@ -287,6 +287,11 @@
 
 /* POP-UP */
 
+#pop-up {
+  padding: 0;
+  border: 0;
+}
+
 .pop-up-container {
   display: flex;
   flex-direction: column;
@@ -301,6 +306,11 @@
 #pop-up::backdrop {
   background-color: #000;
   opacity: 0.75;
+}
+
+.pop-up__floppy-box {
+  inline-size: 39px;
+  block-size: 39px;
 }
 
 .pop-up__floppy {

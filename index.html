@@ -130,7 +130,7 @@
       <button
         class="footer__button container-style"
         type="button"
-        onclick="window['pop-up'].show()"
+        onclick="window['pop-up'].showModal()"
         aria-controls="pop-up"
       >
         <svg class="floppy" viewBox="0 0 39 39" fill="currentColor">
@@ -142,9 +142,11 @@
     <dialog id="pop-up">
       <div class="pop-up-container container-style">
         <div class="pop-op__text-box">
-          <svg class="pop-up__floppy" viewBox="0 0 39 39" fill="currentColor">
-            <use href="./svg/floppy.svg#floppy"></use>
-          </svg>
+          <div class="pop-up__floppy-box">
+            <svg class="pop-up__floppy" viewBox="0 0 39 39" fill="currentColor">
+              <use href="./svg/floppy.svg#floppy"></use>
+            </svg>
+          </div>
           <p class="pop-up__text">Вставьте дискету, чтобы продолжить</p>
         </div>
         <button
