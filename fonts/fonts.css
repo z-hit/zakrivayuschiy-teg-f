@@ -3,7 +3,9 @@
   font-family: "Inter";
   font-weight: 400 785; /* 400 465 700 785 used in project */
   font-style: normal;
-  src: local("Inter-Variable"), url("./Inter-Variable.woff2") format("woff2");
+  src: local("Inter-Variable"),
+    url("./Inter-Variable.woff2") format("woff2 supports variations"),
+    url("./Inter-Variable.woff2") format("woff2-variations");
 }
 
 @font-face {
