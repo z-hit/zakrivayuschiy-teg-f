@@ -295,16 +295,7 @@
   mix-blend-mode: difference;
 }
 
-/* FOOTER */
-
-.footer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 50px 0 100px;
-}
-
-.footer__button {
+.save__button {
   position: relative;
   display: flex;
   flex-direction: row;
@@ -312,6 +303,7 @@
   justify-content: center;
   gap: 8px;
   padding: 15px 20px;
+  margin: 50px auto 100px;
   overflow: hidden;
 }
 
@@ -429,7 +421,7 @@
     inset-inline-end: 13px;
   }
 
-  .footer__button {
+  .save__button {
     flex-direction: column;
   }
 
